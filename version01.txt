@@ -1,2 +1,4 @@
-done
+
+echo "This is the bug fix in development branch"
+ho gya bro
 echo "This is an appended line."
